@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm Lingbai Kong, came of a worker family in North China. Somehow 
+Hi, I'm Lingbai Kong, came of a worker family in North China.
 
 I received my Bachelor's degree from Tongji University, Shanghai, China, in 2022.
 

@@ -1,5 +1,5 @@
 ---
-title: "Interpretable spatio-temporal analysis method for traffic congestion prediction"
+title: "面向交通拥堵预测的可解释性时空分析方法"
 collection: publications
 permalink: /publication/2022-09-08-Interpretable spatio-temporal analysis method for traffic congestion prediction
 excerpt: 'The invention discloses an interpretable spatio-temporal analysis method for traffic congestion prediction, which extracts the key features causing congestion events and the deep connection between roads from the interpretation.'

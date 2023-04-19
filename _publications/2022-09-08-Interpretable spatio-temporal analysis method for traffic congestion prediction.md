@@ -12,4 +12,4 @@ The invention discloses an interpretable spatio-temporal analysis method for tra
 
 [Download paper here](http://static.tianyancha.com/patent/contentPDF/b16b5cc0a8e5e9caca664e9b82c8108c.pdf)
 
-Recommended citation: Jihong Guan，**Lingbai Kong**，Hanchen Yang，Wengen Li，Yichao Zhang. Interpretable spatio-temporal analysis method for traffic congestion prediction[P].Beijing: TJDX0339P.
+Recommended citation:  关佶红，孔令百，杨涵晨，李文根，张毅超. 面向交通拥堵预测的可解释性时空分析方法, 202211094177.3, 2022/09/08

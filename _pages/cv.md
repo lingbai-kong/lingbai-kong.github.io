@@ -16,10 +16,12 @@ Education
 
 # Project \& Experience
 
+- Open Source Promotion Plan (OSPP) 2023: Transformer Basic Model Based on TensorFlow.NET, Jul. 2023 - Present
+  - Organized by the Institute of Software Chinese Academy of Sciences
+  - Supported by the Open Source Software Supply Chain Promotion Plan
 - Research and Application of Digitalization of Community Level Social Grid Governance, Feb. 2022 - Present
   - Supported by the China National Key R\&D Program
-- Decision and Control System of Unmanned Vehicle Driving Based on Deep Learning, May. 2020 - May. 2021
-  - Supported by the Students Innovation Training Program of Tongji University
+- Training Management System of Nanjing Urban Rail Transit Network Training Base, Jul. 2021 - Present
 
 # Awards
 
@@ -30,10 +32,10 @@ Education
 
 Skills
 ======
-* Machine learning, deep learning, pattern recognition and data mining
-* C/C++ and Python programming
+* Interpretable deep learning, spatial-temporal data mining, and causal discovery
+* C/C++/C# and Python programming
 * VerilogHDL for hardware development
-* Uni-app and Vue.js for front-end development, SpringBoot and Flask for front-end development.
+* Uni-app, Vue.js, SpringBoot, and Flask for web development
 
 Publications
 ======

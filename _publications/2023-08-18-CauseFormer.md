@@ -1,0 +1,12 @@
+---
+title: "CauseFormer: An Interpretable Transformer for Temporal Causal Discovery"
+collection: publications
+permalink: /publication/2023-08-18-CauseFormer
+excerpt: 'Temporal causal discovery has become an effective technique to reveal the internal causality of time series. However, most existing deep learning-based causal discovery methods only capture causal relations by analyzing the parameters of some components in the model, e.g., attention weights and convolution weights, which is a local-level mapping process from the parameters to the causality and fails to investigate the structure of the whole model to discover the causality. To facilitate the glob...'
+date: 2023-08-18
+venue: 'Under Review'
+citation: 'Under Review'
+---
+Temporal causal discovery has become an effective technique to reveal the internal causality of time series. However, most existing deep learning-based causal discovery methods only capture causal relations by analyzing the parameters of some components in the model, e.g., attention weights and convolution weights, which is a local-level mapping process from the parameters to the causality and fails to investigate the structure of the whole model to discover the causality. To facilitate the global utilization of deep learning models in temporal causal discovery, we proposed an interpretable transformer-based causal discovery model termed CauseFormer which consists of the causality-aware transformer and the decomposition-based causality detector. The causality-aware transformer learns the causal structure of time series data using a prediction task with the designed multi-kernel causal convolution which aggregates each input time series along the temporal dimension under the temporal priority constraint. Then, the decomposition-based causality detector interprets the global structure of the trained causality-aware transformer with the proposed regression relevance propagation to measure all the potential causal relations and finally construct the causal graph. Experiments on synthetic, simulated and real datasets demonstrate the state-of-the-art performance of CauseFormer on discovering temporal causality.
+
+Recommended citation: Under Review

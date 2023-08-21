@@ -1,0 +1,12 @@
+---
+title: "Towards GNN-based Interpretable Traffic Prediction Framework and Performance"
+collection: publications
+permalink: /publication/2023-03-05-Traffexplainer
+excerpt: 'Nowadays, with the increasing traffic congestion problems in metropolises, traffic prediction plays an essential role in intelligent traffic systems. Notably, various deep learning models, especially graph neural networks (GNNs), achieve state-of-the-art performance in traffic prediction tasks but lack interpretability. To interpret the critical information abstracted by traffic prediction models, we proposed a universal framework termed Traffexplainer towards GNN-based interpretable traffic pre...'
+date: 2023-03-05
+venue: 'Under Review'
+citation: 'Under Review'
+---
+Nowadays, with the increasing traffic congestion problems in metropolises, traffic prediction plays an essential role in intelligent traffic systems. Notably, various deep learning models, especially graph neural networks (GNNs), achieve state-of-the-art performance in traffic prediction tasks but lack interpretability. To interpret the critical information abstracted by traffic prediction models, we proposed a universal framework termed Traffexplainer towards GNN-based interpretable traffic prediction. Traffexplainer is applicable to a wide range of GNNs without making any modifications to the original model structure. The framework consists of the GNN-based traffic prediction model and the perturbation-based hierarchical interpretation generator. Specifically, the hierarchical spatial mask and temporal mask are introduced to perturb the prediction model by modulating the values of input data. Then the prediction losses are backward propagated to the masks, and the well-trained masks can identify the most important features for traffic prediction models, reveal the critical traffic features, and further improve the prediction performance. Lastly, we deploy the framework with five representative GNN-based traffic prediction models and analyze their prediction and interpretation results on three real-world traffic flow datasets. Experiments demonstrate that our framework can generate effective and faithful interpretations for GNN-based traffic prediction models and also optimize the prediction performance.
+
+Recommended citation: Under Review
